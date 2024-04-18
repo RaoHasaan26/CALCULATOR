@@ -1,2 +1,2 @@
 # CALCULATOR
-I Create Simple Calculator With Typescript , Nodejs And Inquirer
+I Create Simple Calculator With Typescript , Nodejs And Inquirer This repository hosts a simple calculator application built with TypeScript and Node.js, featuring interactive command-line input powered by the Inquirer.js library. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division, allowing users to perform calculations conveniently from the command line
